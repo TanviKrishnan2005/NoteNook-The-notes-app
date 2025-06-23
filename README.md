@@ -39,6 +39,7 @@ Features-
 
 
 💡 Future Ideas-
+
 .Colored notes or labels
 
 .Reminders and deadlines
