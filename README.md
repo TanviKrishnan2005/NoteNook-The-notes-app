@@ -31,10 +31,10 @@ Features-
 📸 Preview-
 
 ☀️ Light Mode
-![Light Mode](./images/lightmode.png)
+![Light Mode](./Images/lightmode.png)
 
 🌙 Dark Mode
-![Dark Mode](./images/darkmode.png)
+![Dark Mode](./Images/darkmode.png)
 
 
 
