@@ -40,10 +40,14 @@ Features-
 
 💡 Future Ideas-
 .Colored notes or labels
+
 .Reminders and deadlines
+
 .Cloud sync or user login
+
 .Trash bin for deleted notes
 
 
 ✨ Author-
+
 Made with 💙 by Tanvi 
