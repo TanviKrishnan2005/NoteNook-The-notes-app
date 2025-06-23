@@ -44,4 +44,5 @@ Features
 .Trash bin for deleted notes
 
 ✨ Author
+
 Made with 💙 by Tanvi 
