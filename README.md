@@ -1,8 +1,9 @@
  NOTENOOK
 
-Welcome to **NOTENOOK** — a minimalist and elegant notes app built with React! Take notes, search them, and toggle between dark and light mode to vibe your way. 🌙☀️
+Welcome to **NOTENOOK** — a minimalist and elegant notes app built with React! 
+Take notes, search them, and toggle between dark and light mode to vibe your way. 🌙☀️
 
-Features
+Features-
 
 - ➕ Add Notes
   Type your thoughts and hit save — they’ll stick around.
@@ -20,14 +21,14 @@ Features
   Notes are stored in your browser's localStorage — so they’re still there after a refresh.
 
 
-⚙️ Tech Stack
+⚙️ Tech Stack-
 
 - React JS (with Hooks)
 - CSSmfor styling
 - LocalStorage for saving notes
 
 
-📸 Preview
+📸 Preview-
 
 ☀️ Light Mode
 ![Light Mode](./images/lightmode.png)
@@ -37,12 +38,12 @@ Features
 
 
 
-💡 Future Ideas
+💡 Future Ideas-
 .Colored notes or labels
 .Reminders and deadlines
 .Cloud sync or user login
 .Trash bin for deleted notes
 
-✨ Author
 
+✨ Author-
 Made with 💙 by Tanvi 
